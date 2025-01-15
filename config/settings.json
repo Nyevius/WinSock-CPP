@@ -1,0 +1,26 @@
+{
+    "projects": {
+        "BallUDPClient": {
+            "dependencies": [],
+            "dependents": [],
+            "guid": "306655D3-50F2-25D0-7B37-4AEA48463648",
+            "lib": false,
+            "pch": true,
+            "vcpkg": true,
+            "window": true
+        },
+        "BallUDPServer": {
+            "dependencies": [],
+            "dependents": [],
+            "guid": "7A054588-2ABA-71E3-0E58-20973AB022D5",
+            "lib": false,
+            "pch": true,
+            "vcpkg": true,
+            "window": true
+        }
+    },
+    "solution_guid": "711E4B54-66F2-27C2-3303-4E1E1465503B",
+    "solution_name": "BallUDP",
+    "startup_project": "BallUDPClient",
+    "version": "1.17.3"
+}
